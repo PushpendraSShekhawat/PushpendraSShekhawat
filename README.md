@@ -33,10 +33,6 @@ Angular, Backbone.js, Nuxt.js, Preact, SolidJS, Vue.js
 - **DevOps & Cloud:** Docker, OpenShift, Jenkins Pipelines, Azure, AWS deployments
 - **Data & Analytics:** SQL, Tableau, Power BI, Splunk, Apache Hadoop
 
-## Projects
-
-- **Rubik's Cube** ([Link to Repository](https://git.bcbssc.com/753V/Rubiks_Cube))
-
 ## Skills
 
 - Enterprise mainframe application development
