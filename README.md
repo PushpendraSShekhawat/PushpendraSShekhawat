@@ -1,15 +1,18 @@
 # About Me - Pushpendra Shekhawat (753V)
 
-I am currently a Mainframe Developer at BlueCross BlueShield of South Carolina with expertise in enterprise systems, backend development, and full-stack technologies.
+I am currently an Software Developer at BlueCross BlueShield of South Carolina with expertise in enterprise systems, backend development, and full-stack technologies.
+
+Currently, most of the work I do is associated with my company GitHub, which is unfortunately not avaiable for public view.
+However, I am planning on having some projects available for view VERY SOON...
 
 ## Languages
 
- - **Object-Oriented Languages:** Java, JavaScript, Python, C#, C++, Objective-C
- - **Mainframe Languages:** COBOL, SAS, JCL, IBM APS, REXX
- - **Statistical Languages:** MATLAB, R
- - **Scripting Languages:** Bash, PowerShell
- - **Database & Query Languages:** Cypher, GQL, SQL
- - **Functional & Logical Languages:** Haskell, Prolog
+- **Object-Oriented Languages:** Java, JavaScript, Python, C#, C++, Objective-C
+- **Mainframe Languages:** COBOL, SAS, JCL, IBM APS, REXX
+- **Statistical Languages:** MATLAB, R
+- **Scripting Languages:** Bash, PowerShell
+- **Database & Query Languages:** Cypher, GQL, SQL
+- **Functional & Logical Languages:** Haskell, Prolog
 
 ## Frontend Frameworks
 
