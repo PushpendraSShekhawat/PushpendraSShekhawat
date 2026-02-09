@@ -52,7 +52,7 @@ Angular, Backbone.js, Nuxt.js, Preact, SolidJS, Vue.js
 - System integration and optimization
 - Cloud-native architectures
 - Spending time outdoors
-- Reading
+- Reading [My Books](https://github.com/PushpendraSShekhawat/PushpendraSShekhawat/tree/main/books)
 
 ## Certifications
 
