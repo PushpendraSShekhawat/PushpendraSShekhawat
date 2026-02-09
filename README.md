@@ -57,7 +57,7 @@ Angular, Backbone.js, Nuxt.js, Preact, SolidJS, Vue.js
 ## Certifications
 
 | Certification Name | Certification Issuer | URL for Certification |
-|---|---|---|
+| --- | --- | --- |
 | CSS (Basic) | HackerRank | [Link to Certificate](https://www.hackerrank.com/certificates/e10445e28d19) |
 | Frontend Developer (React) | HackerRank | [Link to Certificate](https://www.hackerrank.com/certificates/5392e35eff8d) |
 | Java (Basic) | HackerRank | [Link to Certificate](https://www.hackerrank.com/certificates/2b91861375e3) |
@@ -68,9 +68,8 @@ Angular, Backbone.js, Nuxt.js, Preact, SolidJS, Vue.js
 | SQL (Advanced) | HackerRank | [Link to Certificate](https://www.hackerrank.com/certificates/901442c02971) |
 | Software Engineer | HackerRank | [Link to Certificate](https://www.hackerrank.com/certificates/353c383564fd) |
 
-
 ## Let's Connect
 
 For collaboration opportunities or inquiries, feel free to reach out!
 
-Pushpendra.Shekhawat96@gmail.com
+<Pushpendra.Shekhawat96@gmail.com>
