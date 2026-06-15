@@ -1,8 +1,8 @@
-# About Me - Pushpendra Shekhawat (753V)
+# About Me - Pushpendra Shekhawat
 
-I am currently an Software Developer at BlueCross BlueShield of South Carolina with expertise in enterprise systems, backend development, and full-stack technologies.
+I am currently a BFSI Technology consultant at BlueCross BlueShield of South Carolina with expertise in enterprise systems, full-stack technologies, mainframe modernization, and AI workflows.
 
-Currently, most of the work I do is associated with my company GitHub, which is unfortunately not avaiable for public view.
+Currently, most of the work I do is associated with my company's GitHub, which is unfortunately not available for public view.
 However, I am planning on having some projects available for view VERY SOON...
 
 ## Languages
@@ -11,8 +11,7 @@ However, I am planning on having some projects available for view VERY SOON...
 - **Mainframe Languages:** COBOL, SAS, JCL, IBM APS, REXX
 - **Statistical Languages:** MATLAB, R
 - **Scripting Languages:** Bash, PowerShell
-- **Database & Query Languages:** Cypher, GQL, SQL
-- **Functional & Logical Languages:** Haskell, Prolog
+- **Database & Query Languages:** Cypher, GQL, SQL, DB2
 
 ## Frontend Frameworks
 
@@ -23,9 +22,9 @@ Angular, Backbone.js, Nuxt.js, Preact, SolidJS, Vue.js
 - **Version Control:** Git, GitHub
 - **Cloud & Containerization:** Azure, AWS, OpenShift, Docker
 - **CI/CD:** Jenkins, SonarQube, BlackDuck
-- **DevOps & Monitoring:** Splunk
+- **DevOps & Monitoring:** Splunk, Azure DevOps
 - **Business Intelligence:** Tableau, Power BI
-- **Enterprise Tools:** Jira
+- **Enterprise Tools:** Jira, Micro Focus Application Lifecycle Management
 - **APIs:** REST APIs, SOAP APIs
 
 ## Experience
