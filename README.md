@@ -70,5 +70,3 @@ Angular, Backbone.js, Nuxt.js, Preact, SolidJS, Vue.js
 ## Let's Connect
 
 For collaboration opportunities or inquiries, feel free to reach out!
-
-<Pushpendra.Shekhawat96@gmail.com>
